@@ -1,0 +1,30 @@
+.calculatorButton {
+    width: 25%;
+    height: 20%;
+    font-size: 1.5rem;
+    border: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.calculatorButton:hover {
+    background-color: #d5d5d5;
+}
+
+.orange {
+    background-color: #fea170;
+}
+
+.orange:hover {
+    background-color: #fe9057;
+}
+
+.red {
+    background-color: #f78d6c;
+}
+
+.red:hover {
+    background-color: #f67a54;
+}
+
+.white {
+    background-color: #ccc;
+}

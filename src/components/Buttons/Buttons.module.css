@@ -1,0 +1,6 @@
+.buttons {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: calc(100% - 7rem - 20px);
+}
